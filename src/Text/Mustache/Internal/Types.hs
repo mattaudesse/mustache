@@ -28,7 +28,6 @@ import qualified Data.Text.Lazy           as LT
 import qualified Data.Vector              as V
 import           Data.Word                (Word8, Word16, Word32, Word64)
 import           Language.Haskell.TH.Lift (deriveLift)
-import           Language.Haskell.TH.Syntax
 import           Numeric.Natural          (Natural)
 
 

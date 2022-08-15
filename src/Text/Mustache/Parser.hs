@@ -38,7 +38,6 @@ module Text.Mustache.Parser
 import           Control.Monad
 import           Data.Char           (isAlphaNum, isSpace)
 import           Data.List           (nub)
-import           Data.Monoid         ((<>))
 import           Data.Text           as T (Text, null, pack)
 import           Prelude             as Prel
 import           Text.Mustache.Types
